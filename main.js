@@ -32,7 +32,7 @@ function game(event) {
 }
 $(".box").on('click', game);
 $(function() {
-    $("#main").hide().fadeIn(1000);
+    $("#main").hide().fadeIn(3000);
   });
   
 
