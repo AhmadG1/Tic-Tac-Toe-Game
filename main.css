@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #0a85aa
+    background-color: #0a85aa;
 
 }
 
@@ -77,10 +77,15 @@ p {
     position: absolute;
     margin-left: 41%;
     font-family: monospace;
-    font-size: -webkit-xxx-large;
+    font-size: 3vw;
     color: #075d77;
     border-radius: 7px;
     margin-bottom: 20px;
     cursor: pointer;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
